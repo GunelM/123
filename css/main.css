@@ -1,22 +1,31 @@
-h1 {
-    color: red; 
+h1{
+    color: red;
+    width: 1px;
+    font-size:40px ;
 }
  
-h2{   
+img{
+    width: 160px;
+}
+ 
+ 
+ h2{   
     background: green;
     color: white;
+ }
+p{
+    font-size: 20px;
 }
-
 p.new span{
     color: red;
 }
-    
-
-.block{
+    .block{
     font-size: 17px;
-    width:100px ;
-    height: 100px;
+    width:125px ;
+    height: 90px;
     background: blue;
+    margin-bottom 100px;
+    color:#fff ;
 }
 
 h2.new{
@@ -28,7 +37,8 @@ h2.new{
   border:2px solid black;
 }
 
-#block{
-    padding-left: 1cm;
+.box{
+    background:green ;
+    height: 10px;
 }
 
